@@ -45,7 +45,7 @@ namespace Graham
 		private void DrawPoint(Point x,Color color)
 		{
 			Pen pen = new Pen(color);
-			g.DrawEllipse(pen, x.X - 1, x.Y - 1, 3, 3);
+			g.DrawEllipse(pen, x.X - 1, x.Y - 1, 2, 2);
 			pictureBox1.Invalidate();
 		}
 
@@ -174,6 +174,7 @@ namespace Graham
 			g.Clear(pictureBox1.BackColor);
 			gPoints.Clear();
 			bPoints.Clear();
+			pictureBox1.Invalidate();
 		}
 
 		private void StepButton_Click(object sender, EventArgs e)
