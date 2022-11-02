@@ -37,6 +37,7 @@
 			// 
 			// pictureBox1
 			// 
+			this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
 			this.pictureBox1.Location = new System.Drawing.Point(12, 12);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new System.Drawing.Size(776, 396);
@@ -66,18 +67,20 @@
 			// 
 			// StepButton
 			// 
+			this.StepButton.BackColor = System.Drawing.SystemColors.Control;
 			this.StepButton.Location = new System.Drawing.Point(531, 415);
 			this.StepButton.Name = "StepButton";
 			this.StepButton.Size = new System.Drawing.Size(75, 23);
 			this.StepButton.TabIndex = 3;
 			this.StepButton.Text = "Шаг+";
-			this.StepButton.UseVisualStyleBackColor = true;
+			this.StepButton.UseVisualStyleBackColor = false;
 			this.StepButton.Click += new System.EventHandler(this.StepButton_Click);
 			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+			this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
 			this.ClientSize = new System.Drawing.Size(800, 450);
 			this.Controls.Add(this.StepButton);
 			this.Controls.Add(this.ExecButton);

@@ -18,6 +18,8 @@ namespace Graham
 		Graphics g;
 		List<Point> bPoints = new List<Point>();
 
+		Color LineColor = Color.WhiteSmoke;
+
 		int current = 0;
 		List<Point> gPoints;
 		Stack<Point> stack = new Stack<Point>();
@@ -37,7 +39,7 @@ namespace Graham
 		private void CreatePoint(Point x)
 		{
 			bPoints.Add(x);
-			DrawPoint(x, Color.Black);
+			DrawPoint(x, LineColor);
 		}
 
 		private void DrawPoint(Point x,Color color)
@@ -68,7 +70,7 @@ namespace Graham
 			{
 				if (p != mn)
 				{
-					DrawPoint(p, Color.Black);
+					DrawPoint(p, LineColor);
 					gPoints.Add(p);
 				}
 			}
@@ -107,14 +109,14 @@ namespace Graham
 			g.Clear(pictureBox1.BackColor);
 
 			foreach (Point p in gPoints)
-				DrawPoint(p, Color.Black);
+				DrawPoint(p, LineColor);
 
-			g.DrawLine(new Pen(Color.Black), gPoints[0], stack.Peek());
-			g.DrawLine(new Pen(Color.Black), gPoints[0], stack.Last());
+			g.DrawLine(new Pen(LineColor), gPoints[0], stack.Peek());
+			g.DrawLine(new Pen(LineColor), gPoints[0], stack.Last());
 
 			for (int i = 1; i < stack.Count; ++i)
 			{
-				g.DrawLine(new Pen(Color.Black), stack.ElementAt(i), stack.ElementAt(i - 1));
+				g.DrawLine(new Pen(LineColor), stack.ElementAt(i), stack.ElementAt(i - 1));
 			}
 
 			pictureBox1.Invalidate();
