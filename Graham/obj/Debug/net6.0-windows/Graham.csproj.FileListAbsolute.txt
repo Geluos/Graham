@@ -1,0 +1,17 @@
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.csproj.AssemblyReference.cache
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.Form1.resources
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.csproj.GenerateResource.cache
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.AssemblyInfoInputs.cache
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.AssemblyInfo.cs
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.csproj.CoreCompileInputs.cache
+C:\Users\rodio\Documents\GitHub\Graham\Graham\bin\Debug\net6.0-windows\Graham.exe
+C:\Users\rodio\Documents\GitHub\Graham\Graham\bin\Debug\net6.0-windows\Graham.deps.json
+C:\Users\rodio\Documents\GitHub\Graham\Graham\bin\Debug\net6.0-windows\Graham.runtimeconfig.json
+C:\Users\rodio\Documents\GitHub\Graham\Graham\bin\Debug\net6.0-windows\Graham.dll
+C:\Users\rodio\Documents\GitHub\Graham\Graham\bin\Debug\net6.0-windows\Graham.pdb
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.dll
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\refint\Graham.dll
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.pdb
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\Graham.genruntimeconfig.cache
+C:\Users\rodio\Documents\GitHub\Graham\Graham\obj\Debug\net6.0-windows\ref\Graham.dll

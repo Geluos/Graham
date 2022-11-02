@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodio\\source\\repos\\Graham\\Graham\\Graham.csproj": {}
+    "C:\\Users\\rodio\\Documents\\GitHub\\Graham\\Graham\\Graham.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodio\\source\\repos\\Graham\\Graham\\Graham.csproj": {
+    "C:\\Users\\rodio\\Documents\\GitHub\\Graham\\Graham\\Graham.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodio\\source\\repos\\Graham\\Graham\\Graham.csproj",
+        "projectUniqueName": "C:\\Users\\rodio\\Documents\\GitHub\\Graham\\Graham\\Graham.csproj",
         "projectName": "Graham",
-        "projectPath": "C:\\Users\\rodio\\source\\repos\\Graham\\Graham\\Graham.csproj",
+        "projectPath": "C:\\Users\\rodio\\Documents\\GitHub\\Graham\\Graham\\Graham.csproj",
         "packagesPath": "C:\\Users\\rodio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodio\\source\\repos\\Graham\\Graham\\obj\\",
+        "outputPath": "C:\\Users\\rodio\\Documents\\GitHub\\Graham\\Graham\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodio\\AppData\\Roaming\\NuGet\\NuGet.Config",
