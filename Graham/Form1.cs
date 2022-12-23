@@ -123,7 +123,7 @@ namespace Graham
 		}
 
 
-		class PointComparer : IComparer<Point>
+		public class PointComparer : IComparer<Point>
 		{
 			public int Compare(Point a, Point b)
 			{
