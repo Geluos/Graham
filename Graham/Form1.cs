@@ -29,6 +29,7 @@ namespace Graham
 			InitializeComponent();
 			pictureBox1.Image = new Bitmap(pictureBox1.Width, pictureBox1.Height);
 			g = Graphics.FromImage(pictureBox1.Image);
+			123
 		}
 
 		private void Form1_Load(object sender, EventArgs e)
