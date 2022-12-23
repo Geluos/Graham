@@ -1,17 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9w00v3Q4vWtB/nsnZxftRwJguYYMAPjiI7POTEIsLpjouitbTPiPhuTNFKDA1vHEd8XEziejVM40OSxPNwzQrg==",
+  "dgSpecHash": "xkSUcKUdUkjeTyqAvOIKk0HHxeV9V7lsYXHXnC8R5uVpoU65K1F6G2/FroOJgiUOyMLdwrlou5vYA/fMZG9OoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodio\\Documents\\GitHub\\Graham\\Graham\\Graham.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\rodio\\.nuget\\packages\\nunit.console\\3.16.0\\nunit.console.3.16.0.nupkg.sha512",
-    "C:\\Users\\rodio\\.nuget\\packages\\nunit.consolerunner\\3.16.0\\nunit.consolerunner.3.16.0.nupkg.sha512",
-    "C:\\Users\\rodio\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
-    "C:\\Users\\rodio\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.9.0\\nunit.extension.nunitv2driver.3.9.0.nupkg.sha512",
-    "C:\\Users\\rodio\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
-    "C:\\Users\\rodio\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
-    "C:\\Users\\rodio\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
-    "C:\\Users\\rodio\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
