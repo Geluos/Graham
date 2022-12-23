@@ -10,7 +10,7 @@ namespace Graham
 	{
 		public static int Plus(int a, int b)
 		{
-			return a - b;
+			return a + b;
 		}
 
 		public static bool IsEven(int a)
